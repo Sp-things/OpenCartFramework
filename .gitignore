@@ -3,6 +3,8 @@ screenshots/
 screenshot/
 test-output/
 build/
+BotRunner.java
+JenkinsBots.java
 
 opencart.log
 ##############################
